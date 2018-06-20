@@ -149,7 +149,7 @@ def main(unused_argv):
 		print ("Test model...")
 		test()
 	else:
-		print("Invalid parameters!")
+		print("Invalid parameters! use command: \"python3 main.py test\" or \"python3 main.py train\"")
 
 
 if __name__ == "__main__":
