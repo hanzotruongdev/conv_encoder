@@ -5,7 +5,7 @@ It is final project of the class "Advanced multimedia image processing" of my ma
 
 Conv-encoder is `Convolutional Auto Encoder` which reduces the dimension of image from 28x28 to 12x12 but still keeps almost the important features of the image.
 Conv-encoder is a machine-learning-based component which uses example for training. For example, I use `MNIST handwrittend digits dataset` to train the mmodel with 1000 epoch.
-The dimensionality reduction of conv-encoder, it is meaningful for apply in other models to reduce the complexity and computation cost but still keeps the high accuracy of model.
+The dimensionality reduction of conv-encoder is meaningful for apply in other models to reduce the complexity and computation cost but still keeps the high accuracy of model.
 
 # Usage #
 
