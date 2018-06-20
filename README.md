@@ -3,6 +3,8 @@
 # Conv-encoder
 It is final project of the class "Advanced multimedia image processing" of my master course in Dongguk Univ.
 
+Conv-encoder is `Convolutional Auto Encoder` which reduces the dimension fo image from 28x28 to 12x12 but also keeps the most important features of the image.
+
 # Usage #
 
 1. Clone project to your PC
